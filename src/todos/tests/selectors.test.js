@@ -1,4 +1,4 @@
-import { expect } from 'chain';
+import { expect } from 'chai';
 import { getCompletedTodos } from '../selectors';
 
 describe('The getCompletedTodos selector', () => {
